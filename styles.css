@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Ari-W9500 Display";
+    src: url("./src/assets/ari-w9500-condensed-display.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Ari-W9500 Display', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
