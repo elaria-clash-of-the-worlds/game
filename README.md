@@ -8,7 +8,7 @@ You are a bouble, a magical creature created from love and nature living on Elar
 to steal its resources and stole... you?!
 
 ## `▶️` `Deployment`
-Just clone the repository and open the `index.html` file.
+Just clone the repository. The game is located in the `index.html` file, since this is a browser game.
 
 ## `🛡️` `Licence`
 MIT
